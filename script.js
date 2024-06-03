@@ -10,7 +10,6 @@ window.addEventListener('DOMContentLoaded', () => {
         frogify(btn);
 
         btn.addEventListener('click', () => {
-            console.log(btn);
             const mode = btn.getAttribute('data-mode');
             switch(mode){
                 case 'frog':

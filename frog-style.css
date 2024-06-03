@@ -15,6 +15,11 @@
     height: 120px;
     animation: animate 2s ease-in;
 }
+
+#frog__left-arm {
+    margin-top: 20px;
+}
+
 @media (min-width: 768px) {
     .reveal {
         border: none;

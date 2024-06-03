@@ -119,7 +119,7 @@ body {
 }
 
 .contact-info__item-icon path {
-    fill: var(--icon-color);
+    fill: #000;
 }
 
 .contact-info__item-icon {
@@ -195,8 +195,6 @@ body {
 
 .experiences__company-header-name {
     color: var(--primary-text-color);
-    text-decoration-color: var(--text-decoration-color);
-    text-decoration-line: underline;
     text-align: left;
     margin-bottom: 20px;
 }
